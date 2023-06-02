@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-lambda-cdk",
+  "name": "cdk_template",
   "version": "0.1.0",
   "bin": {
     "nextjs-lambda-cdk": "bin/nextjs-lambda-cdk.js"
